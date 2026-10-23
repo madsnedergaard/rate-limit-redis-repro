@@ -1,0 +1,11 @@
+{
+  "name": "rlr-init-wedge-repro",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-rate-limit": "^8.7.0",
+    "rate-limit-redis": "^6.0.1",
+    "redis": "^6.2.1"
+  }
+}
